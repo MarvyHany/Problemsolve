@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/MarvyHany/Problemsolve/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/MarvyHany/Problemsolve/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/MarvyHany/Problemsolve/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/MarvyHany/Problemsolve/tree/master/0412-fizz-buzz) |
