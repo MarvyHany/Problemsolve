@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/MarvyHany/Problemsolve/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/MarvyHany/Problemsolve/tree/master/0412-fizz-buzz) |
 ## String
 |  |
@@ -27,4 +28,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MarvyHany/Problemsolve/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/MarvyHany/Problemsolve/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/MarvyHany/Problemsolve/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
